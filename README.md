@@ -1,6 +1,6 @@
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true&theme=blue-green"
+  srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
@@ -10,7 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchnunes&layout=compact&theme=blue-green)](https://github.com/mchnunes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchnunes&layout=compact&theme=dark)](https://github.com/mchnunes/github-readme-stats)
 
 ### Tecnologias Utilizadas
 
