@@ -1,16 +1,21 @@
-### Hi there 👋
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true&theme=blue-green"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true" />
+</picture>
 
-<!--
-**mchnunes/mchnunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchnunes&layout=compact&theme=blue-green)](https://github.com/mchnunes/github-readme-stats)
 
-Here are some ideas to get you started:
+### Tecnologias Utilizadas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+ <img align=center alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+ <img align=center alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img align=center alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</div>
