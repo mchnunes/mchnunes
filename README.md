@@ -10,7 +10,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchnunes&layout=compact&theme=dark)](https://github.com/mchnunes/github-readme-stats)
 
 ### Tecnologias Utilizadas
 
