@@ -1,16 +1,18 @@
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true&theme=dark"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=mchnunes&show_icons=true&theme=dark" />
 </picture>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mchnunes&layout=compact&theme=dark)](https://github.com/mchnunes/github-readme-stats)
-### Tecnologias Utilizadas
+
+### <STRONG>TECNOLOGIAS UTILIZADAS</STRONG>
 <div style="display: inline_block"><br/>
  <img align=center alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
  <img align=center alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
